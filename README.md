@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Khushboo Sunil Jamodkar 
+- 👀 I’m interested in data analysis, data visualization, and solving real-world problems with data.  
+- 🌱 I’m currently learning Python, SQL, Excel, and data analysis tools like Pandas, NumPy, and Power BI.  
+- 💞️ I’m looking to collaborate on beginner-friendly data projects and open-source datasets to build my portfolio.  
+- 📫 How to reach me: khushboosuniljamodkar@gmail.com or connect with me on [LinkedIn](http://linkedin.com/in/khushboo-jamodkar-04680122b)  
+- 😄 Pronouns: she/her  
+- ⚡ Fun fact: I love turning messy data into meaningful insights—like finding trends in my daily coffee intake ☕📊
