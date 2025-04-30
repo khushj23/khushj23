@@ -4,4 +4,5 @@
 - 💞️ I’m looking to collaborate on beginner-friendly data projects and open-source datasets to build my portfolio.  
 - 📫 How to reach me: khushboosuniljamodkar@gmail.com or connect with me on [LinkedIn](http://linkedin.com/in/khushboo-jamodkar-04680122b)  
 - 😄 Pronouns: she/her  
-- ⚡ Fun fact: I love turning messy data into meaningful insights—like finding trends in my daily coffee intake ☕📊[Khushboo Jamodkar.pdf](https://github.com/user-attachments/files/19977897/Khushboo.Jamodkar.pdf)
+- ⚡ Fun fact: I love turning messy data into meaningful insights—like finding trends in my daily coffee intake ☕📊
+- [Khushboo Jamodkar.pdf](https://github.com/user-attachments/files/19977897/Khushboo.Jamodkar.pdf)
